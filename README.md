@@ -1,4 +1,4 @@
-![Screenshot do meu perfil no Codecademy](perfil.png)
+![Screenshot do meu perfil no Codecademy](Perfil.png)
 
 Link para meu perfil mostrando a conclusão do curso de Git:
 [perfil](https://www.codecademy.com/users/pedrobelisario19979432775720/achievements)
